@@ -10,4 +10,12 @@
     --grey: #dddddd;
     --purple: #7d5ba6;
     --coral: #fc6471;
+    --white: #ffffff;
+
+    //transition
+    --tr-all: all 350ms ease-in-out;
+    --tr-color: color 350ms ease-in-out;
+    --tr-fill: fill 350ms ease-in-out;
+    --tr-bg: background-color 350ms ease-in-out;
+    --tr-bord-col: border-color 350ms ease-in-out;
 }

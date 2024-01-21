@@ -1,8 +1,7 @@
 .container {
     margin-right: auto;
     margin-left: auto;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding: 40px;
 
     //mobile
     @media screen and (min-width: 480px) {
